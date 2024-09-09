@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kgaoma.github.io/SZS/sitemap.SZS.gz
